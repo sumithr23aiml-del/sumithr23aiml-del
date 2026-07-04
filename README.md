@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_LINK" width="100%">
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80" width="100%" alt="AI Banner"/>
 </p>
 
 <h1 align="center">
@@ -32,15 +32,15 @@ AI Engineer • Machine Learning • Generative AI • Computer Vision
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/sumithml">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="https://mail.google.com/mail/u/2/#inbox">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="YOUR_LEETCODE">
+<a href="https://leetcode.com/u/sumithml/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
 </a>
 
