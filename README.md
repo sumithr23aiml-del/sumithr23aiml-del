@@ -1,18 +1,148 @@
-# 💫 About Me:
-Building AI-powered applications, LLM-based tools, and Computer Vision projects.<br><br>Open-source AI, Machine Learning, Generative AI, and Full-Stack AI projects.<br><br>Scaling AI systems, MLOps, Cloud Deployment (AWS/Azure), and Production AI Architectures.<br><br>Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, LangGraph, MLOps, and Advanced Deep Learning.<br><br>Python, Machine Learning, Computer Vision, Generative AI, OpenCV, LangChain, and Data Structures & Algorithms.<br><br>I enjoy transforming real-world problems into AI-powered solutions and have a passion for both coding and competitive volleyball.
+<!-- Banner -->
+<p align="center">
+  <img src="YOUR_BANNER_LINK" width="100%">
+</p>
 
+<h1 align="center">
+Hi 👋 I'm Sumith R
+</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumithvb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sumith R) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumithr23aiml@gmail.com) 
+<h3 align="center">
+AI Engineer • Machine Learning • Generative AI • Computer Vision
+</h3>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sumithr23aiml-del&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sumithr23aiml-del&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sumithr23aiml-del&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Developer;Computer+Vision+Engineer;Always+Learning+🚀">
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sumithr23aiml-del&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+- 🔭 Currently building **AI-powered applications**, **LLM tools**, and **Computer Vision systems**
+- 🌱 Learning **RAG, AI Agents, LangGraph, MLOps, Kubernetes**
+- 👯 Looking to collaborate on **Open Source AI Projects**
+- 💬 Ask me about **Python, ML, OpenCV, LangChain, Deep Learning**
+- 🏐 College Volleyball Player
+- ⚡ Fun Fact: I love turning real-world problems into AI solutions.
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
+
+### AI & ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+### LLM
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
+---
+
+# 🚀 Featured Projects
+
+⭐ **APISense AI**
+
+AI-powered API documentation analyzer that extracts endpoints and generates SDK wrappers.
+
+---
+
+⭐ **AI Volleyball Foul Detection**
+
+Computer Vision project using MediaPipe and OpenCV for automatic foul detection.
+
+---
+
+⭐ **AI Resume Analyzer**
+
+Analyzes resumes and matches them with job descriptions using NLP.
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=github_dark&show_icons=true)
+
+---
+
+# 🔥 GitHub Streak
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark)
+
+---
+
+# 📈 Top Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+
+---
+
+# 🏆 GitHub Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
