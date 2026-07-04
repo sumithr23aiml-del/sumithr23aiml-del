@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80" width="100%" alt="AI Banner"/>
+<img src="https://chatgpt.com/s/m_6a4950b990488191811e34cab00f44c1" width="100%" alt="AI Banner"/>
 </p>
 
 <h1 align="center">
