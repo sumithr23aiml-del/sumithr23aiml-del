@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="[https://chatgpt.com/s/m_6a4950b990488191811e34cab00f44c1](https://github.com/sumithr23aiml-del/sumithr23aiml-del/edit/main/github%20banner.png)" width="100%" alt="AI Banner"/>
+  <img src="https://raw.githubusercontent.com/sumithr23aiml-del/sumithr23aiml-del/main/github%20banner.png" alt="AI Banner" width="100%">
 </p>
 
 <h1 align="center">
